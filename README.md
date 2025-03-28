@@ -1,3 +1,4 @@
+![logo](https://github.com/amlanpatra887/amlanpatra887/blob/main/Add%20a%20subheading.png)
 <h1 align="center">Hi 👋, I'm Amlan Patra</h1>
 <h3 align="center">A passionate ml developer from India</h3>
 
